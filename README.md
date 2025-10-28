@@ -1,4 +1,4 @@
-# Task manager project (2025)
+# Enhanced task manager project (2025)
 The repository for the Task manager (Project 2) of Testing Academy course (ENGETO)
 
 ---
